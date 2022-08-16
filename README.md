@@ -1,4 +1,4 @@
-# Rihanna's Biography
+# Afiari's Admin page
 
 ## Description
 
